@@ -1,0 +1,8 @@
+Git & GitHub:
+
+1. Vcs & Git Repo
+2. Staging area & commit
+3. Branches
+4. Issues & PRS(pull request)
+
+Git: git is not but a VCS(Verision control system)
